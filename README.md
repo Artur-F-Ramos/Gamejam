@@ -1,2 +1,0 @@
-# Gamejam
-GameJam with "Overgrown"

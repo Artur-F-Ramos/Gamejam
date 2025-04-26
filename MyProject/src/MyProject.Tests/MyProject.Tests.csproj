@@ -1,0 +1,12 @@
+MyProject
+├── src
+│   ├── MyProject
+│   │   ├── Program.cs
+│   │   ├── MyProject.csproj
+│   │   └── Properties
+│   │       └── launchSettings.json
+│   └── MyProject.Tests
+│       ├── MyProject.Tests.csproj
+│       └── UnitTest1.cs
+├── MyProject.sln
+└── README.md
